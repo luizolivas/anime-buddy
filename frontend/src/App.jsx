@@ -1,12 +1,14 @@
+
+
+import {} from 'react'
 import './App.css'
+import AnimeList from './components/AnimeList'
 
 function App() {
   return (
-    <div>
-  <h1 class="text-9x3 font-bold underline">
-    Hello world!
-  </h1>
-</div>
+    <>
+      <AnimeList></AnimeList>
+    </>
   )
 }
 

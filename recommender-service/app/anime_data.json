@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Attack on Titan",
+    "score": 9.1,
+    "genres": ["Action", "Drama", "Fantasy"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+    "synopsis": "A humanidade luta contra titãs gigantes devoradores de humanos em um mundo pós-apocalíptico."
+  },
+  {
+    "title": "Death Note",
+    "score": 8.7,
+    "genres": ["Mystery", "Supernatural", "Thriller"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/9453.jpg",
+    "synopsis": "Um estudante encontra um caderno que mata qualquer pessoa cujo nome seja escrito nele."
+  },
+  {
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "score": 9.2,
+    "genres": ["Action", "Adventure", "Drama"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg",
+    "synopsis": "Dois irmãos alquimistas buscam a Pedra Filosofal para restaurar seus corpos após um experimento fracassado."
+  },
+  {
+    "title": "Demon Slayer",
+    "score": 8.6,
+    "genres": ["Action", "Supernatural", "Historical"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+    "synopsis": "Tanjiro se torna um caçador de demônios após sua família ser massacrada."
+  },
+  {
+    "title": "Your Lie in April",
+    "score": 8.8,
+    "genres": ["Romance", "Drama", "Music"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/67177.jpg",
+    "synopsis": "Um pianista prodígio perde o gosto pela música até conhecer uma violinista excêntrica."
+  },
+  {
+    "title": "Steins;Gate",
+    "score": 9.1,
+    "genres": ["Sci-Fi", "Thriller", "Drama"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/73199.jpg",
+    "synopsis": "Um grupo de jovens descobre como enviar mensagens ao passado e enfrentam consequências graves."
+  },
+  {
+    "title": "One Punch Man",
+    "score": 8.5,
+    "genres": ["Action", "Comedy", "Superhero"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/76049.jpg",
+    "synopsis": "Um herói entediado derrota qualquer inimigo com um único soco, mas busca um verdadeiro desafio."
+  },
+  {
+    "title": "Spirited Away",
+    "score": 8.9,
+    "genres": ["Fantasy", "Adventure", "Supernatural"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/79597.jpg",
+    "synopsis": "Uma garota se perde em um mundo espiritual e precisa encontrar uma forma de salvar seus pais."
+  },
+  {
+    "title": "Naruto",
+    "score": 7.9,
+    "genres": ["Action", "Adventure", "Shounen"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/17405.jpg",
+    "synopsis": "Um jovem ninja busca se tornar o maior líder de sua vila enquanto lida com demônios internos."
+  },
+  {
+    "title": "Violet Evergarden",
+    "score": 8.7,
+    "genres": ["Drama", "Fantasy", "Slice of Life"],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1795/95088.jpg",
+    "synopsis": "Após a guerra, uma ex-soldada aprende a lidar com sentimentos enquanto escreve cartas para os outros."
+  }
+]
